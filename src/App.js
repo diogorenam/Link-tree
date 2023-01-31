@@ -16,17 +16,14 @@ const socialLinks = [
    
   },
   {
-    linkSite: "https://www.instagram.com/dev.renam_diogo/",
+    linkSite: "https://www.instagram.com/diogorennam",
     nomeRede: "instagram"
   },
   {
     linkSite:"https://github.com/diogorenam",
     nomeRede:"Github"
   },
-  {
-    linkSite:"https://diogorennamportifolio.netlify.app",
-    nomeRede:"Portifolio"
-  },
+ 
   {
     linkSite:"https://open.spotify.com/playlist/55xFymrPRaOkoBs09QjWIe?si=43fd9caee8eb4007",
     nomeRede:"Spotify"
