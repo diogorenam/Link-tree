@@ -20,7 +20,7 @@ const socialLinks = [
     nomeRede: "instagram"
   },
   {
-    linkSite:"https://github.com/diogorennam",
+    linkSite:"https://github.com/diogorennamdev",
     nomeRede:"Github"
   },
  
@@ -38,7 +38,7 @@ function App() {
     <div className="container">
     <Header 
     className="avatar"
-    url="https://github.com/diogorennam.png"
+    url="https://github.com/diogorennamdev.png"
     alt="Imagem de Diogo rennam"
     nome="Diogo Rennam"/>
     
